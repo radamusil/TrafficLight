@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-width: 100vw;
+    align-items: center;
+}
+
+img {
+    width: 200px;
+}
+button {
+    width: 100px;
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: rgb(48, 180, 48);
+}
+
+h1, h2 {
+    font-size: 50px;
+    margin: 0;
+}
+
+div {
+    height: 70px;
+    text-align: center;
+    border: 4px black solid;
+    /*background-color: black;*/
+    width: 60px
+}
